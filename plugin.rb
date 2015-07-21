@@ -1,6 +1,6 @@
-# name: discourse-dev-nav-item
-# about: Include a developer group in the nav items
+# name: discourse-nav-item
+# about: Include extra links in the nav items
 # version: 0.1
-# authors: Robin Ward
+# authors: Mikel Kew, Robin Ward
 
-register_asset('javascripts/discourse-dev-nav-item.js', :server_side)
+register_asset('javascripts/discourse-nav-item.js', :server_side)
